@@ -13,8 +13,13 @@ The dashboard should be built to evolve and accommodate new data over time, but 
 ![alt text](https://github.com/rkorit01/Northwind-Challenge/blob/main/Images/Northwind%20Challenge.png?raw=true)
 
 
+
 # Outcome 
+
 1. **Sales trends**: The Sales revenue is either growing up quarter by quarter or same revenue as previous quarter. Total revenue is 1.35 millions
 2. **Product performance**:  As per the revenue, the top 3products are Côte de Blaye followed by Thüringen Rostbratwurst, and Courdavault.
 3. **Key customers**: The customers who generated highest revenues are Horst Kloss, Jose Parvarotti, Roland Mendel, Partrica McKenna and Paula Wilson.
 4. **Shipping Cost**: United Package are charging higher than others which is 91.57k (44.17%)
+
+### Tools used 
+ 1. PowerBI
