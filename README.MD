@@ -10,4 +10,4 @@ As part of your role, you've been tasked with building a top-level KPI dashboard
 
 The dashboard should be built to evolve and accommodate new data over time, but you've been encouraged by your manager to have insights & recommendations ready to share with the VPs. This is your chance to impress!
 
-![alt text](https://github.com/rkorit01/Northwind-Challenge/blob/main/Northwind Challenge.png?raw=true)
+![alt text](https://github.com/rkorit01/Northwind-Challenge/blob/main/Images/Northwind%20Challenge.png?raw=true)
